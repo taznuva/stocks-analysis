@@ -7,10 +7,12 @@ In this project, we're refactoring the code we made for Steve from the module. T
 
 ## Results
 ### 2017 Dataset
-![This is an image](<img width="549" alt="Screen Shot 2021-10-27 at 6 45 08 PM" src="https://user-images.githubusercontent.com/33046642/139613369-008af346-f042-426c-a26e-6da9e231fa9c.png">)
+The 2017 dataset with the original code ran faster than compared to the refactored and with the 2018 dataset. It also suggests that the stock market in 2017 did very well than in 2018. 
+<img width="549" alt="Screen Shot 2021-10-27 at 6 45 08 PM" src="https://user-images.githubusercontent.com/33046642/139613369-008af346-f042-426c-a26e-6da9e231fa9c.png">
 
 ### 2018 Dataset
-![This is an image](<img width="549" alt="Screen Shot 2021-10-27 at 6 45 39 PM" src="https://user-images.githubusercontent.com/33046642/139613382-4b20f0d9-8813-4b01-96ee-8545e37e2c90.png">)
+The 2018 dataset with the original 
+<img width="549" alt="Screen Shot 2021-10-27 at 6 45 39 PM" src="https://user-images.githubusercontent.com/33046642/139613382-4b20f0d9-8813-4b01-96ee-8545e37e2c90.png">
 
 ### Conclusion
 
@@ -23,4 +25,4 @@ Disadvantages - may take more time to edit, possible more debugging with initial
 
 2)How do these pros and cons apply to refactoring the original VBA script?
 
-Although I've been able to compress the original code from running multiple macros into a single one, I feel it took more time editing to fewer steps compared to original. 
+Although I've been able to compress the original code from running multiple macros into a single one, I feel it took more time editing to fewer steps compared to original. Also, if one isn't familiar working with arrays it can lead to complications when debugging the code. 
