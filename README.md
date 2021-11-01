@@ -11,10 +11,10 @@ The 2017 dataset with the original code ran faster than compared to the refactor
 <img width="549" alt="Screen Shot 2021-10-27 at 6 45 08 PM" src="https://user-images.githubusercontent.com/33046642/139613369-008af346-f042-426c-a26e-6da9e231fa9c.png">
 
 ### 2018 Dataset
-The 2018 dataset with the original 
+The 2018 dataset with the original code ran more than for 2017 and suggests that the stock market did not do so well in 2018. 
+
 <img width="549" alt="Screen Shot 2021-10-27 at 6 45 39 PM" src="https://user-images.githubusercontent.com/33046642/139613382-4b20f0d9-8813-4b01-96ee-8545e37e2c90.png">
 
-### Conclusion
 
 ## Summary
 
