@@ -8,6 +8,7 @@ In this project, we're refactoring the code we made for Steve from the module. T
 ## Results
 ### 2017 Dataset
 The 2017 dataset with the original code ran faster than compared to the refactored and with the 2018 dataset. It also suggests that the stock market in 2017 did very well than in 2018. 
+
 <img width="549" alt="Screen Shot 2021-10-27 at 6 45 08 PM" src="https://user-images.githubusercontent.com/33046642/139613369-008af346-f042-426c-a26e-6da9e231fa9c.png">
 
 ### 2018 Dataset
