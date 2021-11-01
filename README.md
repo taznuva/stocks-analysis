@@ -2,11 +2,15 @@
 
 
 ## Overview of Project
-
-In this project, we're refactoring the code we made for Steve from the module. The whole point of refactoring code is to make it neater, less convoluted, and more efficient such as faster run-time. In this case, we're refactoring code from the previous dataset to expand the dataset so Steve can see the entire stock market. Applying the knowledge gained from the module and practice from previous code, we'll be comparing the runtimes between the original code and the refactored one. 
+### Purpose
+In this project, we're refactoring the code we made for Steve from the module. The whole point of refactoring code is to make it neater, less convoluted, and more efficient such as faster run-time. Refactoring is important process to coding as our first code may not always be efficient and therefore we need to edit. It is also good practice to edit code as it could be our entry point to a company and their existing code. In this case, we're refactoring code from the previous dataset to expand the dataset so Steve can see the entire stock market. Applying the knowledge gained from the module and practice from previous code, we'll be comparing the runtimes between the original code and the refactored one. 
 
 ## Results
+### 2017 Dataset
 
+### 2018 Dataset
+
+### Conclusion
 
 ## Summary
 
